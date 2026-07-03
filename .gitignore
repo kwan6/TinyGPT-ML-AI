@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model hasil training (opsional)
+*.pth
+
+# Jika tokenizer dibuat otomatis saat runtime
+tokenizer.model
+tokenizer.vocab

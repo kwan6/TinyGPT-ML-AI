@@ -1,4 +1,4 @@
-# TinyGPT
+# TinyGPT - Machine Learning dan Artificial Intelligence
 
 Implementasi sederhana dari arsitektur GPT (Generative Pre-trained Transformer) menggunakan PyTorch. Project ini dibuat untuk mempelajari konsep dasar Transformer, Self-Attention, dan proses generasi teks.
 
